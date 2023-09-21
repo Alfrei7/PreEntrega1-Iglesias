@@ -1,5 +1,5 @@
 import React from 'react';
-import NavBar from './components/NavBar'; // Asegúrate de que la ruta sea correcta
+import NavBar from './components/NavBar'; 
 import ItemListContainer from './components/ItemListContainer';
 
 function App() {
