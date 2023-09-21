@@ -1,0 +1,16 @@
+/* Cambiar el fondo del Navbar a #808080 (gris) y el color del texto a #2980B9 (azul) */
+.navbar {
+    background-color: #808080;
+    color: #2980B9;
+  }
+  
+  /* Cambiar el color de fondo del botón de búsqueda a #808080 (gris) */
+  .form-control {
+    background-color: #808080;
+  }
+  
+  /* Cambiar el color de fondo del botón de búsqueda al enfocarse a #2980B9 (azul) */
+  .form-control:focus {
+    background-color: #2980B9;
+  }
+  
